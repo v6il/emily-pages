@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emily-pages/static/css/main.147a663a.css",
+    "main.js": "/emily-pages/static/js/main.641a9c80.js",
+    "index.html": "/emily-pages/index.html",
+    "main.147a663a.css.map": "/emily-pages/static/css/main.147a663a.css.map",
+    "main.641a9c80.js.map": "/emily-pages/static/js/main.641a9c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147a663a.css",
+    "static/js/main.641a9c80.js"
+  ]
+}

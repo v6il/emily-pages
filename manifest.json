@@ -1,0 +1,8 @@
+{
+  "short_name": "emily",
+  "name": "emily's top secret website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#c4cfaf",
+  "background_color": "#dedede"
+}
