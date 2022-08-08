@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/emily-pages/static/css/main.147a663a.css",
-    "main.js": "/emily-pages/static/js/main.641a9c80.js",
+    "main.js": "/emily-pages/static/js/main.7871573c.js",
+    "static/media/cat.jpeg": "/emily-pages/static/media/cat.e090fa227561128a2581.jpeg",
     "index.html": "/emily-pages/index.html",
     "main.147a663a.css.map": "/emily-pages/static/css/main.147a663a.css.map",
-    "main.641a9c80.js.map": "/emily-pages/static/js/main.641a9c80.js.map"
+    "main.7871573c.js.map": "/emily-pages/static/js/main.7871573c.js.map"
   },
   "entrypoints": [
     "static/css/main.147a663a.css",
-    "static/js/main.641a9c80.js"
+    "static/js/main.7871573c.js"
   ]
 }
